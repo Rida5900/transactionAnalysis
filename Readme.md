@@ -64,7 +64,7 @@ For the following topics, please refer directly to the respective files for deta
 ## 🔗 Related Resources
 - **Official Website**: [SUN.io](https://sun.io/)
 - **Blockchain Explorer**: [TRONSCAN](https://tronscan.org/)
-- **Developer Documentation**: [Sun.io Docs](https://docs.sun.io/)
+- **Developer Documentation**: [SUN.io Docs](https://docs.sun.io/)
 
 ---
 
